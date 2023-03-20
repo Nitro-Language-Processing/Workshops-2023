@@ -1,4 +1,5 @@
 # Workshops 2023
+Link materiale: https://drive.google.com/drive/folders/1655BJWcdRA8jTlrajWaSn2jJP5WxaOJh?usp=sharing
 
 ## Mon, 20 Mar
 
@@ -7,7 +8,7 @@
 * Speaker: Miruna-Andreea Zăvelcă
 * Location: A3 (Țițeica) @ FMI UniBuc
 * Link: http://ws1.nitronlp.rocks
-* Link materiale: https://drive.google.com/drive/folders/1655BJWcdRA8jTlrajWaSn2jJP5WxaOJh?usp=sharing
+* Git folder: [Python for ML](Python%20for%20ML/)
 * Recorded: Yes
 
 ### 18:00 - 20:00 – Intro to Machine Learning
