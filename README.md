@@ -7,6 +7,7 @@
 * Speaker: Miruna-Andreea Zăvelcă
 * Location: A3 (Țițeica) @ FMI UniBuc
 * Link: http://ws1.nitronlp.rocks
+* Link materiale: https://drive.google.com/drive/folders/1655BJWcdRA8jTlrajWaSn2jJP5WxaOJh?usp=sharing
 * Recorded: Yes
 
 ### 18:00 - 20:00 – Intro to Machine Learning
