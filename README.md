@@ -16,6 +16,7 @@ Link materiale: https://drive.google.com/drive/folders/1655BJWcdRA8jTlrajWaSn2jJ
 * Speaker: Dana Dăscălescu
 * Location: A3 (Țițeica) @ FMI UniBuc
 * Link: http://ws2.nitronlp.rocks
+* Git folder: [Intro to ML](Intro%20to%20ML/)
 * Recorded: Yes
 
 ## Tue, 21 Mar
@@ -41,6 +42,7 @@ Link materiale: https://drive.google.com/drive/folders/1655BJWcdRA8jTlrajWaSn2jJ
 * Speaker: Andrei Manea
 * Location: A0 (Haret) @ FMI UniBuc
 * Link: http://ws5.nitronlp.rocks
+* Git folder: [Intro to DL](Intro%20to%20DL/)
 * Recorded: Yes
 
 ## Thu, 23 Mar
