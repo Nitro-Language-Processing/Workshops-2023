@@ -37,9 +37,8 @@ Link materiale: https://drive.google.com/drive/folders/1655BJWcdRA8jTlrajWaSn2jJ
 
 * Speaker: Andrei Manea
 * Location: A0 (Haret) @ FMI UniBuc
-* Link: http://ws5.nitronlp.rocks
+* Recording: http://ws5.2023.nitronlp.rocks
 * Git folder: [Intro to DL](Intro%20to%20DL/)
-* Recorded: Yes
 
 ## Thu, 23 Mar
 
