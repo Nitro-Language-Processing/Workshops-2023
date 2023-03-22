@@ -30,6 +30,7 @@ Link materiale: https://drive.google.com/drive/folders/1655BJWcdRA8jTlrajWaSn2jJ
 * Speaker: Ana Sabina Uban
 * Location: A3 (Țițeica) @ FMI UniBuc
 * Recording: http://ws4.2023.nitronlp.rocks
+* Git folder: [Intro to NLP](Intro%20to%20NLP/)
 
 ## Wed, 22 Mar
 
