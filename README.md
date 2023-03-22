@@ -7,17 +7,15 @@ Link materiale: https://drive.google.com/drive/folders/1655BJWcdRA8jTlrajWaSn2jJ
 
 * Speaker: Miruna-Andreea Zăvelcă
 * Location: A3 (Țițeica) @ FMI UniBuc
-* Link: http://ws1.nitronlp.rocks
+* Recording: http://ws1.2023.nitronlp.rocks
 * Git folder: [Python for ML](Python%20for%20ML/)
-* Recorded: Yes
 
 ### 18:00 - 20:00 – Intro to Machine Learning
 
 * Speaker: Dana Dăscălescu
 * Location: A3 (Țițeica) @ FMI UniBuc
-* Link: http://ws2.nitronlp.rocks
+* Recording: http://ws2.2023.nitronlp.rocks
 * Git folder: [Intro to ML](Intro%20to%20ML/)
-* Recorded: Yes
 
 ## Tue, 21 Mar
 
@@ -25,15 +23,13 @@ Link materiale: https://drive.google.com/drive/folders/1655BJWcdRA8jTlrajWaSn2jJ
 
 * Speaker: Diana Todea
 * Location: Online
-* Link: http://ws3.nitronlp.rocks
-* Recorded: Yes
+* Recording: http://ws3.2023.nitronlp.rocks
 
 ### 18:00 - 20:00 – Intro to Natural Language Processing
 
 * Speaker: Ana Sabina Uban
 * Location: A3 (Țițeica) @ FMI UniBuc
-* Link: http://ws4.nitronlp.rocks
-* Recorded: Yes
+* Recording: http://ws4.2023.nitronlp.rocks
 
 ## Wed, 22 Mar
 
