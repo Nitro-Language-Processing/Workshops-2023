@@ -47,6 +47,5 @@ Link materiale: https://drive.google.com/drive/folders/1655BJWcdRA8jTlrajWaSn2jJ
 
 * Speaker: Ștefan Daniel Dumitrescu
 * Location: A2 (Pompeiu) @ FMI UniBuc
-* Link: http://ws6.nitronlp.rocks
-* Recorded: Yes
-
+* Recording: http://ws6.2023.nitronlp.rocks
+* Git folder: [Transfer Learning & Transformers](Transfer%20Learning%20&%20Transformers/)
