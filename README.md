@@ -1,4 +1,4 @@
-# Workshops 2023
+# Workshops 2023 | Second Edition
 Link materiale: https://drive.google.com/drive/folders/1655BJWcdRA8jTlrajWaSn2jJP5WxaOJh?usp=sharing
 
 ## Mon, 20 Mar
